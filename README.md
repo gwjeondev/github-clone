@@ -4,7 +4,7 @@ GitHub 따라 만들기 코딩 예제입니다.
 
 ## URL
 
-https://won-developer.github.io/github-clone/
+https://gwjeondev.github.io/github-clone/
 
 ## Device type
 
